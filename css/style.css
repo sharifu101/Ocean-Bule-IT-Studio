@@ -46,14 +46,6 @@ img {
 }
 
 /* Contract Button */
-.btn {
-    background-color: rgb(13, 2, 156);
-    font-weight: 500;
-    color: white;
-    padding: 5px 20px;
-
-}
-
 .btn:hover {
     color: #e99a07;
 }
